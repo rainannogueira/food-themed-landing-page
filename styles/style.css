@@ -68,3 +68,13 @@ section {
 .social-media-btns a:hover {
     box-shadow: 0 0 12px 8px rgba(0, 0, 0, 0.1);
 }
+
+/* Section title */
+.section-title {
+    color: var(--c1);
+    font-size: 1.563em;
+}
+
+.section-sub-title {
+    font-size: 2.1875em;
+}
